@@ -1,10 +1,10 @@
 # Powermock Application Tests
 
-This repository contains test cases for the `IOUtils` class using PowerMockito. The tests are implemented as JUnit tests to verify the behavior of static methods.
+This repository contains test cases for the `IOUtils` class using PowerMockito. The tests are implemented as JUnit tests to verify the behavior of __static__ methods.
 
 ## Overview
 
-The purpose of this project is to demonstrate how to use PowerMockito to test methods that interact with static methods. In this example, we're testing the behavior of the `IOUtils.toString(URI, Charset)` method from the `IOUtils` class.
+The purpose of this project is to demonstrate how to use PowerMockito to test methods that interact with __static__ methods. In this example, we're testing the behavior of the `IOUtils.toString(URI, Charset)` method from the `IOUtils` class.
 
 ## Getting Started
 
