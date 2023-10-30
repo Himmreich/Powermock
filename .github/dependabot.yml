@@ -12,4 +12,7 @@ updates:
     ignore:
       - dependency-name: "org.mockito:mockito-core"
         versions: [">2.23.0"]
-      
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule: 
+      interval: "weekly"
